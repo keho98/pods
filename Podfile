@@ -4,3 +4,5 @@
 pod 'MagicalRecord', '~> 2.2'
 pod "AFNetworking", '~> 2.0'
 pod 'Masonry', '~> 0.5'
+
+pod 'Bolts', '~> 1.1'
