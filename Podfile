@@ -6,4 +6,6 @@ pod "AFNetworking", '~> 2.0'
 pod 'Masonry', '~> 0.5'
 
 pod 'Bolts', '~> 1.1'
+
 pod 'AsyncDisplayKit'
+pod 'pop', '~> 1.0'
